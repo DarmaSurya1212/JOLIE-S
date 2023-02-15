@@ -1,0 +1,196 @@
+@font-face
+{
+	font-family:GOTHIC;
+	src: url(/resources/assets/fonts/GOTHIC.TTF);
+}
+@font-face
+{
+	font-family:GOTHICB;
+	src: url(/resources/assets/fonts/GOTHICB.TTF);
+}
+@font-face
+{
+	font-family:AsimoneBrush;
+	src: url(/resources/assets/fonts/AsimoneBrush.otf);
+}
+
+.Navbar {
+    border-bottom: black 1px solid;
+}
+
+.header-first {
+    background-color: rgb(167, 165, 172);
+}
+
+.navs-first {
+    font-family: GOTHIC;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    color: rgb(255, 255, 255);
+}
+
+.navs {
+    font-family: GOTHIC;
+    font-size: 13px !important;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+}
+
+.carouselMargin {
+    margin-top : 10px;
+}
+
+.aboutUsTitle {
+    font-family: GOTHIC;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.aboutUsDesc{
+    font-family: GOTHIC;
+    font-size: 13px;
+    color: rgb(26, 26, 26);
+    font-weight: 500;
+}
+
+.aboutUsSelengkapnya{
+    font-family: GOTHIC;
+    font-size: 14px;
+    font-weight: normal;
+    color:rgb(250, 218, 128);
+    text-align: right;
+}
+
+.cardColor {
+    background-color: rgb(247, 249, 250);
+}
+.cardFirstText {
+    font-family: GOTHIC;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.cardSecondText {
+    font-family: GOTHIC;
+    font-size: 14px;
+    padding-bottom: 50px;
+}
+.cardTitleText{
+    font-family: century-gothic, sans-serif;
+    font-size: 22px;
+    margin-top:30px
+}
+
+.cardMarginTop{
+    margin-top:30px
+}
+
+.titleFtProducts {
+    font-family: GOTHIC;
+    font-size: 24px;
+    font-weight: normal;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top : 50px;
+}
+
+.titleCardFt{
+    font-family: GOTHIC;
+    font-size: 14px;
+    font-weight: normal;
+    color: rgb(26, 26, 26);
+    text-align: center;
+}
+
+.textCardFt{
+    font-family: GOTHICB;
+    font-size: 12px;
+    color: rgb(26, 26, 26);
+    text-align: center;
+}
+
+.titleSection5{
+    font-family: GOTHIC;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.descSection5{
+    font-family: GOTHIC;
+    letter-spacing: 0.8px;
+    color: #000 ;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.descSection5-2{
+    font-family: GOTHIC;
+    letter-spacing: 0.4px;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.section6Title{
+    font-family: GOTHIC;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top : 5px;
+    font-size : 17px;
+}
+
+.footerFirst{
+    background-color: rgb(60, 64, 72);
+    padding-bottom: 12px;
+}
+.footerSecond{
+    background-color: #62676C;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footerSecondHead{
+    font-family: GOTHIC;
+    color:#fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.footerSecondMenu{
+    font-family: GOTHIC;
+    color:#fff;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+    letter-spacing: 0.8px;
+    padding-left: 10px ;
+    padding-bottom: 15px;
+}
+
+.footerIcon{
+    color: #fff;
+    padding-left: 10px;
+
+}
+
+.copyright{
+    font-family: GOTHIC;
+    color:#fff ;
+    font-size: 12px ;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+    margin-top:25px;
+    text-align: center;
+}
